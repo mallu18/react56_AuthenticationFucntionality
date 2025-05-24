@@ -1,0 +1,11 @@
+/* Write your CSS code here
+.home {
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+} */
